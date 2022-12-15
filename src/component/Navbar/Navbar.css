@@ -1,0 +1,15 @@
+.nav-top{
+    border: solid 2px white;
+    margin: 0%;
+    width: 100%;
+    background: #000;
+}
+.top-nav{
+    border: solid 2px white;
+    margin: 5px;
+}
+
+.navbar-nav{
+    margin: auto;
+}
+
